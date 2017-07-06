@@ -6,7 +6,7 @@
 int  main()
 {
 float cnt =1.0;
-
+//
 
 
     if(cnt==0) {
