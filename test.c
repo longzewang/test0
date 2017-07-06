@@ -2,10 +2,11 @@
 #include <stdlib.h>
 #include <assert.h>
 #include <string.h>
-
+#include <time.h>
 int  main()
 {
-int cnt  = 0;
+float cnt ;
+
 
 
     if(cnt==0) {
