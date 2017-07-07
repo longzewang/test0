@@ -5,7 +5,7 @@
 #include <time.h>
 int  main()
 {
-float cnt =1.0;
+int cnt =1;
 //
 
 
