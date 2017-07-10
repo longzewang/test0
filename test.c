@@ -22,7 +22,7 @@ int cnt =0;
         FILE *fp_f=fopen(file_name_f,"ab+");
         if(fp_f==NULL) printf("can't create file!");
     }
-
+cnt = 1;
 return cnt;
 
 }
